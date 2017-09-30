@@ -1,0 +1,9 @@
+1.git add 文件或者文件夹/*
+2.git commit -m "备注"
+3.git push origin master
+
+
+辅助操作：
+git log -n(n表示n是数字，表示看最近n次的提交记录)
+git status(表示当前本地仓库的状态：新添的文件.添加到本地仓库的文件以及commit的次数)
+git commit  --amend(表示commit之后还需要add文件进行补提交操作)
